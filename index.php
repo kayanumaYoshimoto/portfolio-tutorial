@@ -452,26 +452,26 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
 				<ul class="items">
 					<li>
 						<h3>Email</h3>
-						<a href="#">information@untitled.ext</a>
+						<a href="#">hyeongwonchoe901@gmail.com</a>
 					</li>
 					<li>
 						<h3>Phone</h3>
-						<a href="#">(000) 000-0000</a>
+						<a href="#">(090) 6566-0000</a>
 					</li>
 					<li>
 						<h3>Address</h3>
-						<span>1234 Somewhere Road, Nashville, TN 00000</span>
+						<span>東京都練馬区</span>
 					</li>
 					<li>
 						<h3>Elsewhere</h3>
 						<ul class="icons">
-							<li><a href="#" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
-							<li><a href="#" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
-							<li><a href="#" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
-							<li><a href="#" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
+							<li><a onclick="alert('用意されてない機能です')" class="icon brands fa-twitter"><span class="label">Twitter</span></a></li>
+							<li><a onclick="alert('用意されてない機能です')" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a onclick="alert('用意されてない機能です')" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+							<li><a onclick="alert('用意されてない機能です')" class="icon brands fa-linkedin-in"><span class="label">LinkedIn</span></a></li>
 							<li><a href="https://github.com/kayanumaYoshimoto" class="icon brands fa-github"><span
 										class="label">GitHub</span></a></li>
-							<li><a href="#" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
+							<li><a onclick="alert('用意されてない機能です')" class="icon brands fa-codepen"><span class="label">Codepen</span></a></li>
 						</ul>
 					</li>
 				</ul>
